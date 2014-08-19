@@ -1,0 +1,39 @@
+h2 {
+background-color:white;
+color:Black;
+padding:5px;
+}
+h3 {
+background-color:white;
+color:Black;
+padding:5px;
+font-family:Calibri;
+font-size:12pt;
+}
+body {
+font-family:Calibri;
+font-size:12pt;
+}
+th { 
+background-color:black;
+color:white;
+padding:5px;
+}
+tr:hover td{
+background:#88aabb
+}
+td {
+background-color:#d3d3d3;
+color:black;
+padding-left:5px;
+padding-right:5px;
+}
+td.key7 {
+background-color:Yellow
+}
+td.key6 {
+background-color:Orange
+}
+td.key5 {
+background-color:Red
+}
